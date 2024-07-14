@@ -1,0 +1,41 @@
+<!--
+p {
+  font-size: 24px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-dark {
+  color: green;
+}
+
+
+#blue {
+  color: blue;
+}
+
+p {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+-->
+
+p {
+  color: blue;
+  font-weight: bold;
+}
+
+.important {
+  color: purple;
+  font-style: italic;
+}
+
+#intro {
+  color: green;
+}
